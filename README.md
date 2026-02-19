@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ermelinda 👋
 
-<!--
-**ermelinda-q/ermelinda-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Computer Science (Data Analytics) graduate with a background in Education and Music. I enjoy exploring, working with, and analysing data.
 
-Here are some ideas to get you started:
+### What I'm building
+- Data analysis and database applications.
+- Analytics and app development projects.
+- Data-driven tools and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and technologies
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL)
+- Neo4j (graph databases)
+- Bash & shell scripting
+- Machine learning
+- Statistics
+- Flutter (app development)
+- Git & GitHub
+
+### Interests & Skills
+- Python, SQL, and Bash scripting  
+- Data analysis  
+- Databases  
+- App development  
+- Music & technology
+
